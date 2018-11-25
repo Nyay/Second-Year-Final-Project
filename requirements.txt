@@ -1,0 +1,5 @@
+  ```
+  Flask==0.12.1
+  pymystem3==0.1.5
+  pyTelegramBotAPI==2.3.1
+  ```
